@@ -1,0 +1,11 @@
+D:\Projects\Internet.Shop\Internet.Shop\bin\Debug\netcoreapp2.0\Internet.Shop.deps.json
+D:\Projects\Internet.Shop\Internet.Shop\bin\Debug\netcoreapp2.0\Internet.Shop.runtimeconfig.json
+D:\Projects\Internet.Shop\Internet.Shop\bin\Debug\netcoreapp2.0\Internet.Shop.runtimeconfig.dev.json
+D:\Projects\Internet.Shop\Internet.Shop\bin\Debug\netcoreapp2.0\Internet.Shop.dll
+D:\Projects\Internet.Shop\Internet.Shop\bin\Debug\netcoreapp2.0\Internet.Shop.pdb
+D:\Projects\Internet.Shop\Internet.Shop\obj\Debug\netcoreapp2.0\Internet.Shop.csprojResolveAssemblyReference.cache
+D:\Projects\Internet.Shop\Internet.Shop\obj\Debug\netcoreapp2.0\Internet.Shop.csproj.CoreCompileInputs.cache
+D:\Projects\Internet.Shop\Internet.Shop\obj\Debug\netcoreapp2.0\Internet.Shop.AssemblyInfoInputs.cache
+D:\Projects\Internet.Shop\Internet.Shop\obj\Debug\netcoreapp2.0\Internet.Shop.AssemblyInfo.cs
+D:\Projects\Internet.Shop\Internet.Shop\obj\Debug\netcoreapp2.0\Internet.Shop.dll
+D:\Projects\Internet.Shop\Internet.Shop\obj\Debug\netcoreapp2.0\Internet.Shop.pdb
